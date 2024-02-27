@@ -1,0 +1,11 @@
+[t31]
+FileName1=t31_holidays.json
+URL1=https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/holidays?fromDate=2024-01-01&toDate=2024-12-31
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_31.xml
+RequestHeaderFile=t31_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t31_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

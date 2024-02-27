@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-ID:\Final\AnotherPage
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ed:\final\anotherpage\\logfile.log
+d:\final\anotherpage\\combined_AnotherPage.c
+d:\final\anotherpage\\pre_cci.c

@@ -1,0 +1,15 @@
+[t65]
+FileName1=t65_time-at-work.json
+URL1=https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/employees/time-at-work?timezoneOffset=5.5&currentDate=2024-02-27&currentTime=10:01
+Total=3
+ContentType=application/json
+SnapshotXmlFile=snapshot_65.xml
+RequestHeaderFile=t65_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t65_ResponseHeader.txt
+FileName2=t65_nunito-sans-v6-latin-ext_latin-italic.html
+URL2=https://opensource-demo.orangehrmlive.com/web/dist/fonts/nunito-sans-v6-latin-ext_latin-italic.woff2
+FileName3=t65_nunito-sans-v6-latin-ext_latin-700.html
+URL3=https://opensource-demo.orangehrmlive.com/web/dist/fonts/nunito-sans-v6-latin-ext_latin-700.woff2
+[ProtocolInfo]
+ProtocolId=QTWeb

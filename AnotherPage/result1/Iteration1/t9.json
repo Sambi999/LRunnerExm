@@ -1,0 +1,1 @@
+{"data":[{"id":164,"date":"2024-02-26","lengthHours":8,"employee":{"empNumber":2,"lastName":"Adalwin","firstName":"Odis","middleName":"","employeeId":"0002","terminationId":null},"duration":"specify_time","endTime":"17:00","startTime":"09:00","leaveType":{"id":8,"name":"CAN - Bereavement","deleted":false}}],"meta":{"total":1,"leavePeriodDefined":true},"rels":[]}

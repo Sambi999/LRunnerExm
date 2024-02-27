@@ -1,0 +1,22 @@
+[t12]
+FileName2=t2_3_chunk-vendors.UNK
+RawStepEndTime=1709010438457
+FileName5=t2_0_chunk-vendors.css
+FileName4=t2_1_app.UNK
+RequestBodyFile=t12_RequestBody.txt
+RawStepName=push
+ContentType=text/html
+URL1=file:
+URL2=https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1706326081969
+URL3=https://opensource-demo.orangehrmlive.com/web/dist/css/app.css?v=1706326081969
+ResponseHeaderFile=t12_ResponseHeader.txt
+URL4=https://opensource-demo.orangehrmlive.com/web/dist/js/app.js?v=1706326081969
+URL5=https://opensource-demo.orangehrmlive.com/web/dist/css/chunk-vendors.css?v=1706326081969
+SnapshotXmlFile=snapshot_11.xml
+RequestHeaderFile=t12_RequestHeader.txt
+SaveSnapshotResources=1
+RawStepStartTime=1709010438180
+Total=5
+StepName=Custom Request: push
+FileName1=t4.html
+FileName3=t2_2_app.css

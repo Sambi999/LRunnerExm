@@ -1,0 +1,13 @@
+[t10]
+FileName1=t10_locations.json
+URL1=https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/employees/locations
+Total=2
+ContentType=application/json
+SnapshotXmlFile=snapshot_10.xml
+RequestHeaderFile=t10_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t10_ResponseHeader.txt
+FileName2=t10_orangehrm-logo.png
+URL2=https://opensource-demo.orangehrmlive.com/web/images/orangehrm-logo.png?v=1706326081969
+[ProtocolInfo]
+ProtocolId=QTWeb

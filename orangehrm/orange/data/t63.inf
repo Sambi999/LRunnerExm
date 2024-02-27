@@ -1,0 +1,13 @@
+[t63]
+FileName1=t63.htm
+URL1=https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index
+Total=2
+RequestHeaderFile=t63_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t63_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_63.xml
+FileName2=t63_orange.png
+URL2=https://opensource-demo.orangehrmlive.com/web/images/orange.png?v=1706326081969
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,368 @@
+[
+    {
+        "actionName": "Action",
+        "steps": [
+            {
+                "stepId": "STEP1",
+                "stepName": "Url: opensource-demo.orangehrmlive.com",
+                "infFile": "t2.inf",
+                "time": 1709009265781
+            },
+            {
+                "stepId": "STEP2",
+                "stepName": "Url: messages",
+                "infFile": "t3.inf",
+                "time": 1709009266541
+            },
+            {
+                "stepId": "STEP3",
+                "stepName": "Submit Data: validate",
+                "infFile": "t4.inf",
+                "time": 1709009267587
+            },
+            {
+                "stepId": "STEP4",
+                "stepName": "Url: time-at-work",
+                "infFile": "t5.inf",
+                "time": 1709009267994
+            },
+            {
+                "stepId": "STEP5",
+                "stepName": "Url: action-summary",
+                "infFile": "t6.inf",
+                "time": 1709009268406
+            },
+            {
+                "stepId": "STEP6",
+                "stepName": "Url: shortcuts",
+                "infFile": "t7.inf",
+                "time": 1709009268829
+            },
+            {
+                "stepId": "STEP7",
+                "stepName": "Url: feed",
+                "infFile": "t8.inf",
+                "time": 1709009269223
+            },
+            {
+                "stepId": "STEP8",
+                "stepName": "Url: leaves",
+                "infFile": "t9.inf",
+                "time": 1709009269641
+            },
+            {
+                "stepId": "STEP9",
+                "stepName": "Url: locations",
+                "infFile": "t10.inf",
+                "time": 1709009270098
+            },
+            {
+                "stepId": "STEP10",
+                "stepName": "Url: subunit",
+                "infFile": "t11.inf",
+                "time": 1709009270461
+            },
+            {
+                "stepId": "STEP11",
+                "stepName": "Custom Request: push",
+                "infFile": "t12.inf",
+                "time": 1709009270870
+            },
+            {
+                "stepId": "STEP12",
+                "stepName": "Url: viewMyDetails",
+                "infFile": "t13.inf",
+                "time": 1709009271695
+            },
+            {
+                "stepId": "STEP13",
+                "stepName": "Url: 7",
+                "infFile": "t14.inf",
+                "time": 1709009272093
+            },
+            {
+                "stepId": "STEP14",
+                "stepName": "Url: attachments",
+                "infFile": "t15.inf",
+                "time": 1709009272504
+            },
+            {
+                "stepId": "STEP15",
+                "stepName": "Url: personal-details",
+                "infFile": "t16.inf",
+                "time": 1709009272915
+            },
+            {
+                "stepId": "STEP16",
+                "stepName": "Url: holidays",
+                "infFile": "t17.inf",
+                "time": 1709009273319
+            },
+            {
+                "stepId": "STEP17",
+                "stepName": "Url: employees",
+                "infFile": "t18.inf",
+                "time": 1709009273729
+            },
+            {
+                "stepId": "STEP18",
+                "stepName": "Url: holidays_2",
+                "infFile": "t19.inf",
+                "time": 1709009274138
+            },
+            {
+                "stepId": "STEP19",
+                "stepName": "Url: custom-fields",
+                "infFile": "t20.inf",
+                "time": 1709009274549
+            },
+            {
+                "stepId": "STEP20",
+                "stepName": "Url: workweek",
+                "infFile": "t21.inf",
+                "time": 1709009274966
+            },
+            {
+                "stepId": "STEP21",
+                "stepName": "Url: workweek_2",
+                "infFile": "t22.inf",
+                "time": 1709009275370
+            },
+            {
+                "stepId": "STEP22",
+                "stepName": "Custom Request: personal-details_2",
+                "infFile": "t23.inf",
+                "time": 1709009279861
+            },
+            {
+                "stepId": "STEP23",
+                "stepName": "Custom Request: custom-fields_2",
+                "infFile": "t24.inf",
+                "time": 1709009284381
+            },
+            {
+                "stepId": "STEP24",
+                "stepName": "Custom Request: json",
+                "infFile": "t25.inf",
+                "time": 1709009284911
+            },
+            {
+                "stepId": "STEP25",
+                "stepName": "Url: viewLeaveModule",
+                "infFile": "t26.inf",
+                "time": 1709009289240
+            },
+            {
+                "stepId": "STEP26",
+                "stepName": "Url: leave-types",
+                "infFile": "t27.inf",
+                "time": 1709009294225
+            },
+            {
+                "stepId": "STEP27",
+                "stepName": "Url: leave-requests",
+                "infFile": "t28.inf",
+                "time": 1709009298663
+            },
+            {
+                "stepId": "STEP28",
+                "stepName": "Url: workweek_3",
+                "infFile": "t29.inf",
+                "time": 1709009303011
+            },
+            {
+                "stepId": "STEP29",
+                "stepName": "Url: leave-periods",
+                "infFile": "t30.inf",
+                "time": 1709009307377
+            },
+            {
+                "stepId": "STEP30",
+                "stepName": "Url: holidays_3",
+                "infFile": "t31.inf",
+                "time": 1709009311904
+            },
+            {
+                "stepId": "STEP31",
+                "stepName": "Url: workweek_4",
+                "infFile": "t32.inf",
+                "time": 1709009316298
+            },
+            {
+                "stepId": "STEP32",
+                "stepName": "Url: holidays_4",
+                "infFile": "t33.inf",
+                "time": 1709009320981
+            },
+            {
+                "stepId": "STEP33",
+                "stepName": "Url: leave-requests_2",
+                "infFile": "t34.inf",
+                "time": 1709009325544
+            },
+            {
+                "stepId": "STEP34",
+                "stepName": "Url: employees_2",
+                "infFile": "t35.inf",
+                "time": 1709009330127
+            },
+            {
+                "stepId": "STEP35",
+                "stepName": "Url: employees_3",
+                "infFile": "t36.inf",
+                "time": 1709009334581
+            },
+            {
+                "stepId": "STEP36",
+                "stepName": "Url: leave-requests_3",
+                "infFile": "t37.inf",
+                "time": 1709009338933
+            },
+            {
+                "stepId": "STEP37",
+                "stepName": "Url: leave-requests_4",
+                "infFile": "t38.inf",
+                "time": 1709009343371
+            },
+            {
+                "stepId": "STEP38",
+                "stepName": "Url: leave-requests_5",
+                "infFile": "t39.inf",
+                "time": 1709009347794
+            },
+            {
+                "stepId": "STEP39",
+                "stepName": "Url: viewPerformanceModule",
+                "infFile": "t40.inf",
+                "time": 1709009352245
+            },
+            {
+                "stepId": "STEP40",
+                "stepName": "Url: reviews",
+                "infFile": "t41.inf",
+                "time": 1709009356888
+            },
+            {
+                "stepId": "STEP41",
+                "stepName": "Url: job-titles",
+                "infFile": "t42.inf",
+                "time": 1709009361266
+            },
+            {
+                "stepId": "STEP42",
+                "stepName": "Url: subunits",
+                "infFile": "t43.inf",
+                "time": 1709009365609
+            },
+            {
+                "stepId": "STEP43",
+                "stepName": "Url: workweek_5",
+                "infFile": "t44.inf",
+                "time": 1709009370005
+            },
+            {
+                "stepId": "STEP44",
+                "stepName": "Url: holidays_5",
+                "infFile": "t45.inf",
+                "time": 1709009374400
+            },
+            {
+                "stepId": "STEP45",
+                "stepName": "Url: workweek_6",
+                "infFile": "t46.inf",
+                "time": 1709009379425
+            },
+            {
+                "stepId": "STEP46",
+                "stepName": "Url: holidays_6",
+                "infFile": "t47.inf",
+                "time": 1709009384228
+            },
+            {
+                "stepId": "STEP47",
+                "stepName": "Url: employees_4",
+                "infFile": "t48.inf",
+                "time": 1709009390240
+            },
+            {
+                "stepId": "STEP48",
+                "stepName": "Url: reviews_2",
+                "infFile": "t49.inf",
+                "time": 1709009394778
+            },
+            {
+                "stepId": "STEP49",
+                "stepName": "Url: index",
+                "infFile": "t50.inf",
+                "time": 1709009399166
+            },
+            {
+                "stepId": "STEP50",
+                "stepName": "Url: subunit_2",
+                "infFile": "t51.inf",
+                "time": 1709009403644
+            },
+            {
+                "stepId": "STEP51",
+                "stepName": "Url: shortcuts_2",
+                "infFile": "t52.inf",
+                "time": 1709009407983
+            },
+            {
+                "stepId": "STEP52",
+                "stepName": "Url: feed_2",
+                "infFile": "t53.inf",
+                "time": 1709009412344
+            },
+            {
+                "stepId": "STEP53",
+                "stepName": "Url: leaves_2",
+                "infFile": "t54.inf",
+                "time": 1709009416812
+            },
+            {
+                "stepId": "STEP54",
+                "stepName": "Custom Request: push_2",
+                "infFile": "t55.inf",
+                "time": 1709009421216
+            },
+            {
+                "stepId": "STEP55",
+                "stepName": "Url: locations_2",
+                "infFile": "t56.inf",
+                "time": 1709009425913
+            },
+            {
+                "stepId": "STEP56",
+                "stepName": "Url: action-summary_2",
+                "infFile": "t57.inf",
+                "time": 1709009430511
+            },
+            {
+                "stepId": "STEP57",
+                "stepName": "Url: viewAdminModule",
+                "infFile": "t58.inf",
+                "time": 1709009435494
+            },
+            {
+                "stepId": "STEP58",
+                "stepName": "Url: users",
+                "infFile": "t59.inf",
+                "time": 1709009440128
+            },
+            {
+                "stepId": "STEP59",
+                "stepName": "Url: employees_5",
+                "infFile": "t60.inf",
+                "time": 1709009444724
+            },
+            {
+                "stepId": "STEP60",
+                "stepName": "Url: users_2",
+                "infFile": "t61.inf",
+                "time": 1709009449201
+            }
+        ],
+        "transactions": []
+    }
+]

@@ -1,0 +1,33 @@
+[Scenario]
+Product=LoadRunner Controller
+Version=2023.0.0.0
+Path=Scenario1
+Subject=
+Result_file=D:\Final\orangehrm\orange\orange.lrr
+Description=
+ResultName=orange
+Time_Zone=-19800
+Start_time=1708944105
+Daylight_Bias=0
+Stop_time=1708944287
+[Configuration]
+Public_local=1
+Is_mix=1
+Is_runner_file=0
+Runner_file=
+[Running_mode]
+Start_reason=By command
+Stop_reason=By command
+[Data Collection]
+FullData=1
+[Scenario_summary]
+Scenario Type=Manual Scenario
+Goal Profile Name=Schedule 1
+Mode=Scenario Scheduling
+Scenario Duration=Start 4 Vusers: 1 every 00:00:20 (HH:MM:SS); Run for 00:04:00 (HH:MM:SS); Stop all Vusers: 1 every 00:00:30 (HH:MM:SS)
+Load Behavior=Initialize each Vuser just before it runs
+Global Schedule=ST4_1E20;R240;SP4_1E30;
+[Scripts]
+orange=D:\Final\orangehrm\orange\orange.usr
+[Scripts_types]
+orange=Multi+QTWeb

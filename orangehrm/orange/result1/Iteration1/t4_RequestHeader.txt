@@ -1,0 +1,12 @@
+POST /web/index.php/auth/validate HTTP/1.1
+Content-Type: application/x-www-form-urlencoded
+Referer: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en-GB,en;q=0.9
+Accept: */*
+Connection: Keep-Alive
+Host: opensource-demo.orangehrmlive.com
+Cookie: orangehrm=dc91638191cf26a31283b26933114134
+Content-Length: 156
+

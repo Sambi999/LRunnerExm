@@ -1,0 +1,22 @@
+[t10]
+FileName2=t2_3_app.UNK
+RawStepEndTime=1709014355172
+FileName5=t2_0_chunk-vendors.css
+FileName4=t2_1_app.css
+RequestBodyFile=t10_RequestBody.txt
+RawStepName=locations
+ContentType=application/json
+URL1=https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/employees/locations
+URL2=https://opensource-demo.orangehrmlive.com/web/dist/js/app.js?v=1706326081969
+URL3=https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1706326081969
+ResponseHeaderFile=t10_ResponseHeader.txt
+URL4=https://opensource-demo.orangehrmlive.com/web/dist/css/app.css?v=1706326081969
+URL5=https://opensource-demo.orangehrmlive.com/web/dist/css/chunk-vendors.css?v=1706326081969
+SnapshotXmlFile=snapshot_9.xml
+RequestHeaderFile=t10_RequestHeader.txt
+SaveSnapshotResources=1
+RawStepStartTime=1709014354855
+Total=5
+StepName=Url: locations
+FileName1=t10.json
+FileName3=t2_2_chunk-vendors.UNK

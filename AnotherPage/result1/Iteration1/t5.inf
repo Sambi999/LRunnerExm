@@ -1,0 +1,22 @@
+[t5]
+FileName2=t2_3_app.UNK
+RawStepEndTime=1709009267912
+FileName5=t2_0_chunk-vendors.css
+FileName4=t2_1_app.css
+RequestBodyFile=t5_RequestBody.txt
+RawStepName=time-at-work
+ContentType=application/json
+URL1=https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/employees/time-at-work?timezoneOffset=5.5&currentDate=2024-02-26&currentTime=15:30
+URL2=https://opensource-demo.orangehrmlive.com/web/dist/js/app.js?v=1706326081969
+URL3=https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1706326081969
+ResponseHeaderFile=t5_ResponseHeader.txt
+URL4=https://opensource-demo.orangehrmlive.com/web/dist/css/app.css?v=1706326081969
+URL5=https://opensource-demo.orangehrmlive.com/web/dist/css/chunk-vendors.css?v=1706326081969
+SnapshotXmlFile=snapshot_4.xml
+RequestHeaderFile=t5_RequestHeader.txt
+SaveSnapshotResources=1
+RawStepStartTime=1709009267589
+Total=5
+StepName=Url: time-at-work
+FileName1=t5.json
+FileName3=t2_2_chunk-vendors.UNK

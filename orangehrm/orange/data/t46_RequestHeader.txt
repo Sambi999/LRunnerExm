@@ -1,0 +1,17 @@
+GET /web/index.php/api/v2/admin/users?limit=50&offset=0&sortField=u.userName&sortOrder=ASC HTTP/1.1
+Host: opensource-demo.orangehrmlive.com
+Connection: keep-alive
+sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"
+Accept: application/json
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://opensource-demo.orangehrmlive.com/web/index.php/admin/viewSystemUsers
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en-GB,en;q=0.9
+Cookie: orangehrm=4708781e79cc3257668d84ac8c6d5e9e
+

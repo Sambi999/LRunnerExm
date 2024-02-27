@@ -1,0 +1,11 @@
+GET /web/index.php/api/v2/leave/employees/leave-requests?limit=50&offset=0&includeEmployees=onlyCurrent HTTP/1.1
+Authorization: Bearer 83f333fee2fc44d2893435.9UQx8nQ6vHjKzlbvlAG4wWbqQZ7cRnqA2D2ahZ2W8hM.onNGgDBc0juN-hS8pnb3jy2_NvKIKE7CtFj8xN-nq32dfXemMX_4SJuRMQ
+Referer: https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en-GB,en;q=0.9
+Accept: */*
+Connection: Keep-Alive
+Host: opensource-demo.orangehrmlive.com
+Cookie: orangehrm=c2dfe1f2ea33675736e1e166af968376
+

@@ -1,0 +1,11 @@
+[t49]
+FileName1=t49_users.json
+URL1=https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/admin/users?limit=50&offset=0&username=Admin&userRoleId=1&empNumber=7&status=1&sortField=u.userName&sortOrder=ASC
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_49.xml
+RequestHeaderFile=t49_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t49_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

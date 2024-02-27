@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-ID:\Final\orangehrm\orange
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ed:\final\orangehrm\orange\\logfile.log
+d:\final\orangehrm\orange\\combined_orange.c
+d:\final\orangehrm\orange\\pre_cci.c

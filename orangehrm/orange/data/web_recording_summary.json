@@ -1,0 +1,598 @@
+{
+  "FilterHeaders": [
+    {
+      "Header": "x-goog-update-updater",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "x-goog-update-interactivity",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "x-goog-update-appid",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "x-goog-encode-response-if-executable",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "x-goog-api-key",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "user-agent",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "upgrade-insecure-requests",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "sec-fetch-user",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "sec-fetch-site",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "sec-fetch-mode",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "sec-fetch-dest",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "sec-ch-ua-platform",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "sec-ch-ua-mobile",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "sec-ch-ua",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "origin",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "if-none-match",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "contenttype",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "cache-control",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "accept-language",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "accept-encoding",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "accept",
+      "IncludeInScript": false
+    }
+  ],
+  "FilterResources": [
+    {
+      "IsNonResource": false,
+      "type": "text/plain"
+    },
+    {
+      "IsNonResource": true,
+      "type": "text/html"
+    },
+    {
+      "IsNonResource": false,
+      "type": "text/css"
+    },
+    {
+      "IsNonResource": false,
+      "type": "image/vnd.microsoft.icon"
+    },
+    {
+      "IsNonResource": false,
+      "type": "image/svg+xml"
+    },
+    {
+      "IsNonResource": false,
+      "type": "image/png"
+    },
+    {
+      "IsNonResource": false,
+      "type": "image/jpeg"
+    },
+    {
+      "IsNonResource": true,
+      "type": "application/json"
+    },
+    {
+      "IsNonResource": false,
+      "type": "application/javascript"
+    }
+  ],
+  "GeneralInfo": {
+    "BrowserVersion": "",
+    "IsWinInetMode": false,
+    "MaxUsedConnections": 12,
+    "RecordedBrowser": "Chrome",
+    "RecordingDate": "Feb-26-2024",
+    "RecordingDuration": 91485,
+    "RecordingMode": "N/A",
+    "RecordingTimeStamp": 1708935538,
+    "RecordingType": "Browser",
+    "TotalBytesReceived": 5563962,
+    "TotalBytesSent": 43477,
+    "TotalRequests": 45,
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
+  },
+  "HostInfo": [
+    {
+      "DomainName": "orangehrmlive.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "78.136.60.48",
+          "IncludeInScript": true,
+          "Name": "opensource-demo.orangehrmlive.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 329,
+              "EventId": 1555,
+              "HttpStatus": 200,
+              "Size": 276,
+              "URL": "https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/admin/users?limit=50&offset=0&username=savi22dsd&userRoleId=2&empNumber=80&status=0&sortField=u.userName&sortOrder=ASC"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 344,
+              "EventId": 1549,
+              "HttpStatus": 200,
+              "Size": 856,
+              "URL": "https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/pim/employees?nameOrId=savi"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 312,
+              "EventId": 1539,
+              "HttpStatus": 200,
+              "Size": 2952,
+              "URL": "https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/admin/users?limit=50&offset=0&sortField=u.userName&sortOrder=ASC"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "",
+              "DownloadTime": 281,
+              "EventId": 1537,
+              "HttpStatus": 304,
+              "Size": 0,
+              "URL": "https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPhoto/empNumber/7"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "",
+              "DownloadTime": 281,
+              "EventId": 1535,
+              "HttpStatus": 304,
+              "Size": 0,
+              "URL": "https://opensource-demo.orangehrmlive.com/web/index.php/core/i18n/messages"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 344,
+              "EventId": 1533,
+              "HttpStatus": 200,
+              "Size": 9766,
+              "URL": "https://opensource-demo.orangehrmlive.com/web/index.php/admin/viewSystemUsers"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 281,
+              "EventId": 1531,
+              "HttpStatus": 302,
+              "Size": 554,
+              "URL": "https://opensource-demo.orangehrmlive.com/web/index.php/admin/viewAdminModule"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 422,
+              "EventId": 1524,
+              "HttpStatus": 200,
+              "Size": 89269,
+              "URL": "https://opensource-demo.orangehrmlive.com/web/index.php/buzz/photo/11"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 563,
+              "EventId": 1454,
+              "HttpStatus": 200,
+              "Size": 465792,
+              "URL": "https://opensource-demo.orangehrmlive.com/web/index.php/buzz/photo/14"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 453,
+              "EventId": 1452,
+              "HttpStatus": 200,
+              "Size": 20692,
+              "URL": "https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPhoto/empNumber/2"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 484,
+              "EventId": 1450,
+              "HttpStatus": 200,
+              "Size": 644417,
+              "URL": "https://opensource-demo.orangehrmlive.com/web/index.php/buzz/photo/13"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 485,
+              "EventId": 1446,
+              "HttpStatus": 200,
+              "Size": 0,
+              "URL": "https://opensource-demo.orangehrmlive.com/web/index.php/events/push"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 375,
+              "EventId": 1444,
+              "HttpStatus": 200,
+              "Size": 16256,
+              "URL": "https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPhoto/empNumber/7"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 312,
+              "EventId": 1441,
+              "HttpStatus": 200,
+              "Size": 41913,
+              "URL": "https://opensource-demo.orangehrmlive.com/web/images/dashboard_empty_widget_watermark.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 438,
+              "EventId": 1439,
+              "HttpStatus": 200,
+              "Size": 272,
+              "URL": "https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/employees/locations"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 484,
+              "EventId": 1435,
+              "HttpStatus": 200,
+              "Size": 354,
+              "URL": "https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/employees/leaves?date=2024-02-27"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 157,
+              "EventId": 1431,
+              "HttpStatus": 200,
+              "Size": 2680,
+              "URL": "https://opensource-demo.orangehrmlive.com/web/images/orangehrm-logo.png?v=1706326081969"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 375,
+              "EventId": 1429,
+              "HttpStatus": 200,
+              "Size": 324,
+              "URL": "https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/employees/subunit"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 438,
+              "EventId": 1427,
+              "HttpStatus": 200,
+              "Size": 2052,
+              "URL": "https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/buzz/feed?limit=5&offset=0&sortOrder=DESC&sortField=share.createdAtUtc"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 313,
+              "EventId": 1423,
+              "HttpStatus": 200,
+              "Size": 183,
+              "URL": "https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/shortcuts"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "",
+              "DownloadTime": 313,
+              "EventId": 1420,
+              "HttpStatus": 200,
+              "Size": 26312,
+              "URL": "https://opensource-demo.orangehrmlive.com/web/dist/fonts/nunito-sans-v6-latin-ext_latin-700.woff2"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "",
+              "DownloadTime": 297,
+              "EventId": 1417,
+              "HttpStatus": 200,
+              "Size": 26800,
+              "URL": "https://opensource-demo.orangehrmlive.com/web/dist/fonts/nunito-sans-v6-latin-ext_latin-italic.woff2"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 531,
+              "EventId": 1415,
+              "HttpStatus": 200,
+              "Size": 1166,
+              "URL": "https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/employees/time-at-work?timezoneOffset=5.5&currentDate=2024-02-27&currentTime=10:01"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 406,
+              "EventId": 1411,
+              "HttpStatus": 200,
+              "Size": 159,
+              "URL": "https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/employees/action-summary"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 313,
+              "EventId": 1393,
+              "HttpStatus": 200,
+              "Size": 16559,
+              "URL": "https://opensource-demo.orangehrmlive.com/web/images/orange.png?v=1706326081969"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "",
+              "DownloadTime": 328,
+              "EventId": 1390,
+              "HttpStatus": 304,
+              "Size": 0,
+              "URL": "https://opensource-demo.orangehrmlive.com/web/index.php/core/i18n/messages"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 406,
+              "EventId": 1388,
+              "HttpStatus": 200,
+              "Size": 6615,
+              "URL": "https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 657,
+              "EventId": 1386,
+              "HttpStatus": 302,
+              "Size": 530,
+              "URL": "https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "",
+              "DownloadTime": 312,
+              "EventId": 1343,
+              "HttpStatus": 200,
+              "Size": 25820,
+              "URL": "https://opensource-demo.orangehrmlive.com/web/dist/fonts/nunito-sans-v6-latin-ext_latin-600.woff2"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "",
+              "DownloadTime": 312,
+              "EventId": 1340,
+              "HttpStatus": 200,
+              "Size": 25884,
+              "URL": "https://opensource-demo.orangehrmlive.com/web/dist/fonts/nunito-sans-v6-latin-ext_latin-regular.woff2"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "",
+              "DownloadTime": 297,
+              "EventId": 1338,
+              "HttpStatus": 200,
+              "Size": 25780,
+              "URL": "https://opensource-demo.orangehrmlive.com/web/dist/fonts/nunito-sans-v6-latin-ext_latin-800.woff2"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "",
+              "DownloadTime": 344,
+              "EventId": 1310,
+              "HttpStatus": 200,
+              "Size": 121296,
+              "URL": "https://opensource-demo.orangehrmlive.com/web/dist/fonts/bootstrap-icons.woff2"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 156,
+              "EventId": 1306,
+              "HttpStatus": 200,
+              "Size": 324441,
+              "URL": "https://opensource-demo.orangehrmlive.com/web/images/ohrm_logo.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/svg+xml",
+              "DownloadTime": 156,
+              "EventId": 1303,
+              "HttpStatus": 200,
+              "Size": 289,
+              "URL": "https://opensource-demo.orangehrmlive.com/web/dist/img/blob.svg"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 140,
+              "EventId": 1301,
+              "HttpStatus": 200,
+              "Size": 30411,
+              "URL": "https://opensource-demo.orangehrmlive.com/web/images/ohrm_branding.png?v=1706326081969"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 282,
+              "EventId": 1291,
+              "HttpStatus": 200,
+              "Size": 100873,
+              "URL": "https://opensource-demo.orangehrmlive.com/web/index.php/core/i18n/messages"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/vnd.microsoft.icon",
+              "DownloadTime": 157,
+              "EventId": 1289,
+              "HttpStatus": 200,
+              "Size": 564,
+              "URL": "https://opensource-demo.orangehrmlive.com/web/dist/favicon.ico?v=1706326081969"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/javascript",
+              "DownloadTime": 328,
+              "EventId": 1144,
+              "HttpStatus": 200,
+              "Size": 1491165,
+              "URL": "https://opensource-demo.orangehrmlive.com/web/dist/js/app.js?v=1706326081969"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/javascript",
+              "DownloadTime": 328,
+              "EventId": 1082,
+              "HttpStatus": 200,
+              "Size": 1625366,
+              "URL": "https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1706326081969"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/css",
+              "DownloadTime": 328,
+              "EventId": 1080,
+              "HttpStatus": 200,
+              "Size": 160886,
+              "URL": "https://opensource-demo.orangehrmlive.com/web/dist/css/app.css?v=1706326081969"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/css",
+              "DownloadTime": 328,
+              "EventId": 1058,
+              "HttpStatus": 200,
+              "Size": 249969,
+              "URL": "https://opensource-demo.orangehrmlive.com/web/dist/css/chunk-vendors.css?v=1706326081969"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 312,
+              "EventId": 1053,
+              "HttpStatus": 200,
+              "Size": 3458,
+              "URL": "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 172,
+              "EventId": 1050,
+              "HttpStatus": 302,
+              "Size": 0,
+              "URL": "https://opensource-demo.orangehrmlive.com/"
+            }
+          ],
+          "SSLCipher": "ECDHE-RSA-AES256-GCM-SHA384",
+          "SSLVersion": "TLS1.2"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "googleapis.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "142.250.199.131",
+          "IncludeInScript": true,
+          "Name": "update.googleapis.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 313,
+              "EventId": 1545,
+              "HttpStatus": 200,
+              "Size": 953,
+              "URL": "https://update.googleapis.com/service/update2/json?cup2key=13:2N92eZ2mdsaqI_Hw3GSDFLU1r6C3xr3OGizxQA2xzgs&cup2hreq=01e36d3c243efb3a68a85799918face1354f9a153c518ff865621c7d15e66302"
+            }
+          ],
+          "SSLCipher": "TLS_AES_256_GCM_SHA384",
+          "SSLVersion": "TLS1.3"
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "172.217.166.74",
+          "IncludeInScript": true,
+          "Name": "content-autofill.googleapis.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/plain",
+              "DownloadTime": 141,
+              "EventId": 1347,
+              "HttpStatus": 200,
+              "Size": 58,
+              "URL": "https://content-autofill.googleapis.com/v1/pages/ChVDaHJvbWUvMTIxLjAuNjE2Ny4xODkSIAlx0MhB461LMBIFDeeNQA4SBQ3OQUx6IfSlwpWXzsx1?alt=proto"
+            }
+          ],
+          "SSLCipher": "TLS_AES_256_GCM_SHA384",
+          "SSLVersion": "TLS1.3"
+        }
+      ],
+      "IncludeInScript": true
+    }
+  ],
+  "WebSocket": {
+    "IncludeInScript": false,
+    "IsScriptIncludeWebSocket": false
+  },
+  "NumberOfCorrelations": 3
+}

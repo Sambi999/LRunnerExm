@@ -1,0 +1,22 @@
+[t17]
+FileName2=t2_3_app.UNK
+RawStepEndTime=1709009273235
+FileName5=t2_0_chunk-vendors.css
+FileName4=t2_1_app.css
+RequestBodyFile=t17_RequestBody.txt
+RawStepName=holidays
+ContentType=application/json
+URL1=https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/holidays?fromDate=2024-01-01&toDate=2024-12-31
+URL2=https://opensource-demo.orangehrmlive.com/web/dist/js/app.js?v=1706326081969
+URL3=https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1706326081969
+ResponseHeaderFile=t17_ResponseHeader.txt
+URL4=https://opensource-demo.orangehrmlive.com/web/dist/css/app.css?v=1706326081969
+URL5=https://opensource-demo.orangehrmlive.com/web/dist/css/chunk-vendors.css?v=1706326081969
+SnapshotXmlFile=snapshot_16.xml
+RequestHeaderFile=t17_RequestHeader.txt
+SaveSnapshotResources=1
+RawStepStartTime=1709009272931
+Total=5
+StepName=Url: holidays
+FileName1=t17.json
+FileName3=t2_2_chunk-vendors.UNK

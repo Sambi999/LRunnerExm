@@ -1,0 +1,20 @@
+[
+    {
+        "actionName": "vuser_init",
+        "steps": [
+            {
+                "stepId": "STEP1",
+                "stepName": "Url: opensource-demo.orangehrmlive.com",
+                "infFile": "t2.inf",
+                "time": 1709010431874
+            },
+            {
+                "stepId": "STEP2",
+                "stepName": "Url: messages",
+                "infFile": "t3.inf",
+                "time": 1709010432619
+            }
+        ],
+        "transactions": []
+    }
+]

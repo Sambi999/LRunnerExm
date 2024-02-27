@@ -1,0 +1,11 @@
+[t27]
+FileName1=t27_leave-types.json
+URL1=https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/leave-types?limit=0
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_27.xml
+RequestHeaderFile=t27_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t27_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

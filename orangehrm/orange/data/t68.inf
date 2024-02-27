@@ -1,0 +1,13 @@
+[t68]
+FileName1=t68_subunit.json
+URL1=https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/employees/subunit
+Total=2
+ContentType=application/json
+SnapshotXmlFile=snapshot_68.xml
+RequestHeaderFile=t68_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t68_ResponseHeader.txt
+FileName2=t68_orangehrm-logo.png
+URL2=https://opensource-demo.orangehrmlive.com/web/images/orangehrm-logo.png?v=1706326081969
+[ProtocolInfo]
+ProtocolId=QTWeb

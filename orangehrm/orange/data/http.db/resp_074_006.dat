@@ -1,0 +1,4 @@
+3a2
+{"data":[{"id":263,"employee":{"empNumber":7,"lastName":"ZMoZqoSE","firstName":"eHcLk4jX","middleName":"LRHXBgB0","terminationId":null},"status":{"id":"SUBMITTED","name":"Submitted"},"startDate":"2024-02-26","endDate":"2024-03-03"},{"id":260,"employee":{"empNumber":7,"lastName":"ZMoZqoSE","firstName":"eHcLk4jX","middleName":"LRHXBgB0","terminationId":null},"status":{"id":"SUBMITTED","name":"Submitted"},"startDate":"2023-01-16","endDate":"2023-01-22"},{"id":259,"employee":{"empNumber":7,"lastName":"ZMoZqoSE","firstName":"eHcLk4jX","middleName":"LRHXBgB0","terminationId":null},"status":{"id":"SUBMITTED","name":"Submitted"},"startDate":"2022-08-15","endDate":"2022-08-21"},{"id":40,"employee":{"empNumber":7,"lastName":"ZMoZqoSE","firstName":"eHcLk4jX","middleName":"LRHXBgB0","terminationId":null},"status":{"id":"SUBMITTED","name":"Submitted"},"startDate":"2020-09-14","endDate":"2020-09-20"}],"meta":{"total":4},"rels":[]}
+0
+

@@ -1,0 +1,15 @@
+[t38]
+FileName1=t38_action-summary.json
+URL1=https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/employees/action-summary
+Total=3
+ContentType=application/json
+SnapshotXmlFile=snapshot_38.xml
+RequestHeaderFile=t38_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t38_ResponseHeader.txt
+FileName2=t38_nunito-sans-v6-latin-ext_latin-italic.html
+URL2=https://opensource-demo.orangehrmlive.com/web/dist/fonts/nunito-sans-v6-latin-ext_latin-italic.woff2
+FileName3=t38_nunito-sans-v6-latin-ext_latin-700.html
+URL3=https://opensource-demo.orangehrmlive.com/web/dist/fonts/nunito-sans-v6-latin-ext_latin-700.woff2
+[ProtocolInfo]
+ProtocolId=QTWeb

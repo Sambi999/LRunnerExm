@@ -1,0 +1,15 @@
+[t70]
+FileName1=t70_locations.json
+URL1=https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/employees/locations
+Total=3
+ContentType=application/json
+SnapshotXmlFile=snapshot_70.xml
+RequestHeaderFile=t70_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t70_ResponseHeader.txt
+FileName2=t70_dashboard_empty_widget_watermark.png
+URL2=https://opensource-demo.orangehrmlive.com/web/images/dashboard_empty_widget_watermark.png
+FileName3=t70_7.jfif
+URL3=https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPhoto/empNumber/7
+[ProtocolInfo]
+ProtocolId=QTWeb

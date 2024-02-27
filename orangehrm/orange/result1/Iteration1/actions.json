@@ -1,0 +1,266 @@
+[
+    {
+        "actionName": "Login_Info",
+        "steps": [
+            {
+                "stepId": "STEP3",
+                "stepName": "Submit Data: validate",
+                "infFile": "t4.inf",
+                "time": 1709014351779
+            },
+            {
+                "stepId": "STEP4",
+                "stepName": "Url: time-at-work",
+                "infFile": "t5.inf",
+                "time": 1709014352417
+            },
+            {
+                "stepId": "STEP5",
+                "stepName": "Url: action-summary",
+                "infFile": "t6.inf",
+                "time": 1709014353108
+            },
+            {
+                "stepId": "STEP6",
+                "stepName": "Url: shortcuts",
+                "infFile": "t7.inf",
+                "time": 1709014353619
+            },
+            {
+                "stepId": "STEP7",
+                "stepName": "Url: feed",
+                "infFile": "t8.inf",
+                "time": 1709014354321
+            },
+            {
+                "stepId": "STEP8",
+                "stepName": "Url: leaves",
+                "infFile": "t9.inf",
+                "time": 1709014354842
+            },
+            {
+                "stepId": "STEP9",
+                "stepName": "Url: locations",
+                "infFile": "t10.inf",
+                "time": 1709014355510
+            },
+            {
+                "stepId": "STEP10",
+                "stepName": "Url: subunit",
+                "infFile": "t11.inf",
+                "time": 1709014356181
+            },
+            {
+                "stepId": "STEP11",
+                "stepName": "Custom Request: push",
+                "infFile": "t12.inf",
+                "time": 1709014356679
+            },
+            {
+                "stepId": "STEP12",
+                "stepName": "Url: viewAdminModule",
+                "infFile": "t13.inf",
+                "time": 1709014357715
+            },
+            {
+                "stepId": "STEP13",
+                "stepName": "Url: users",
+                "infFile": "t14.inf",
+                "time": 1709014358347
+            },
+            {
+                "stepId": "STEP14",
+                "stepName": "Custom Request: json",
+                "infFile": "t15.inf",
+                "time": 1709014359018
+            },
+            {
+                "stepId": "STEP15",
+                "stepName": "Url: employees",
+                "infFile": "t16.inf",
+                "time": 1709014359545
+            },
+            {
+                "stepId": "STEP16",
+                "stepName": "Custom Request: json_2",
+                "infFile": "t17.inf",
+                "time": 1709014360246
+            },
+            {
+                "stepId": "STEP17",
+                "stepName": "Url: employees_2",
+                "infFile": "t18.inf",
+                "time": 1709014360776
+            },
+            {
+                "stepId": "STEP18",
+                "stepName": "Url: employees_3",
+                "infFile": "t19.inf",
+                "time": 1709014361469
+            },
+            {
+                "stepId": "STEP19",
+                "stepName": "Custom Request: json_3",
+                "infFile": "t20.inf",
+                "time": 1709014362003
+            },
+            {
+                "stepId": "STEP20",
+                "stepName": "Url: employees_4",
+                "infFile": "t21.inf",
+                "time": 1709014362679
+            },
+            {
+                "stepId": "STEP21",
+                "stepName": "Url: users_2",
+                "infFile": "t22.inf",
+                "time": 1709014363348
+            },
+            {
+                "stepId": "STEP22",
+                "stepName": "Url: employees_5",
+                "infFile": "t23.inf",
+                "time": 1709014363867
+            },
+            {
+                "stepId": "STEP23",
+                "stepName": "Url: employees_6",
+                "infFile": "t24.inf",
+                "time": 1709014364570
+            },
+            {
+                "stepId": "STEP24",
+                "stepName": "Url: users_3",
+                "infFile": "t25.inf",
+                "time": 1709014365081
+            },
+            {
+                "stepId": "STEP25",
+                "stepName": "Url: users_4",
+                "infFile": "t26.inf",
+                "time": 1709014365785
+            },
+            {
+                "stepId": "STEP26",
+                "stepName": "Url: employees_7",
+                "infFile": "t27.inf",
+                "time": 1709014366312
+            },
+            {
+                "stepId": "STEP27",
+                "stepName": "Url: employees_8",
+                "infFile": "t28.inf",
+                "time": 1709014366997
+            },
+            {
+                "stepId": "STEP28",
+                "stepName": "Url: employees_9",
+                "infFile": "t29.inf",
+                "time": 1709014367528
+            },
+            {
+                "stepId": "STEP29",
+                "stepName": "Url: users_5",
+                "infFile": "t30.inf",
+                "time": 1709014368201
+            },
+            {
+                "stepId": "STEP30",
+                "stepName": "Url: employees_10",
+                "infFile": "t31.inf",
+                "time": 1709014368748
+            },
+            {
+                "stepId": "STEP31",
+                "stepName": "Url: employees_11",
+                "infFile": "t32.inf",
+                "time": 1709014369391
+            },
+            {
+                "stepId": "STEP32",
+                "stepName": "Url: users_6",
+                "infFile": "t33.inf",
+                "time": 1709014370087
+            },
+            {
+                "stepId": "STEP33",
+                "stepName": "Url: employees_12",
+                "infFile": "t34.inf",
+                "time": 1709014370599
+            },
+            {
+                "stepId": "STEP34",
+                "stepName": "Url: users_7",
+                "infFile": "t35.inf",
+                "time": 1709014371269
+            },
+            {
+                "stepId": "STEP35",
+                "stepName": "Url: viewMyDetails",
+                "infFile": "t36.inf",
+                "time": 1709014372095
+            },
+            {
+                "stepId": "STEP36",
+                "stepName": "Url: personal-details",
+                "infFile": "t37.inf",
+                "time": 1709014372651
+            },
+            {
+                "stepId": "STEP37",
+                "stepName": "Url: 7",
+                "infFile": "t38.inf",
+                "time": 1709014373353
+            },
+            {
+                "stepId": "STEP38",
+                "stepName": "Url: workweek",
+                "infFile": "t39.inf",
+                "time": 1709014373878
+            },
+            {
+                "stepId": "STEP39",
+                "stepName": "Url: attachments",
+                "infFile": "t40.inf",
+                "time": 1709014374617
+            },
+            {
+                "stepId": "STEP40",
+                "stepName": "Url: custom-fields",
+                "infFile": "t41.inf",
+                "time": 1709014375118
+            },
+            {
+                "stepId": "STEP41",
+                "stepName": "Url: holidays",
+                "infFile": "t42.inf",
+                "time": 1709014375710
+            },
+            {
+                "stepId": "STEP42",
+                "stepName": "Url: employees_13",
+                "infFile": "t43.inf",
+                "time": 1709014376357
+            },
+            {
+                "stepId": "STEP43",
+                "stepName": "Url: workweek_2",
+                "infFile": "t44.inf",
+                "time": 1709014377054
+            },
+            {
+                "stepId": "STEP44",
+                "stepName": "Url: holidays_2",
+                "infFile": "t45.inf",
+                "time": 1709014377572
+            },
+            {
+                "stepId": "STEP45",
+                "stepName": "Custom Request: personal-details_2",
+                "infFile": "t46.inf",
+                "time": 1709014380767
+            }
+        ],
+        "transactions": []
+    }
+]

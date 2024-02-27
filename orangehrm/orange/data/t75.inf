@@ -1,0 +1,11 @@
+[t75]
+FileName1=t75_employees.json
+URL1=https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/pim/employees?nameOrId=savi
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_75.xml
+RequestHeaderFile=t75_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t75_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,11 @@
+[t29]
+FileName1=t29_user-name.json
+URL1=https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/admin/validation/user-name?userName=Sambi
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_29.xml
+RequestHeaderFile=t29_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t29_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

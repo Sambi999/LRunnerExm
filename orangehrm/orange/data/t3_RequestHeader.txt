@@ -1,0 +1,17 @@
+POST /chrome-sync/command/?client=Google+Chrome&client_id=MnAOFDBFR25Voa33oElWlw%3D%3D HTTP/1.1
+Host: clients4.google.com
+Connection: keep-alive
+Content-Length: 314
+Pragma: no-cache
+Cache-Control: no-cache
+Authorization: Bearer ya29.a0AfB_byDhKOQ2eSlbaLQ6mNKTSPE8FlHvTUaHVroDpJOSs1HZVp2VsDGAuowaYV68DOWHv9S7HwNU9dt_oCtJrUvw99glfBt999xLYnBqoHdHk4UjUBt_NeIPcHAsh2d6pnb6pZpBMz1XS3MGYqxZvAy3PJKDLaFHeEq6lQ6z8nJP69ZTt-0HTfKpV20pDGaFVQdFZTUE_qC2B1ubbmqbQJYQphXPPMGaZX_D-cW3FC3_bGr3MMqt4wb8Gn9GH-09ziuRRtI8qLTYYQaCgYKAWsSARASFQHGX2MiMnX1HCW7y3q7LnOKceICkg0277
+Content-Encoding: gzip
+User-Agent: Chrome WIN 121.0.6167.189 (060bb2de30fba0f496dd01e06bd9206029758654-refs/branch-heads/6167_184@{#2}) channel(stable)
+Content-Type: application/octet-stream
+X-Client-Data: CI22yQEIo7bJAQipncoBCJvZygEIlaHLAQiFoM0BCKLuzQEIg/DNAQji9c0BCOD6zQEY9snNARin6s0BGKH4zQEYyvjNAQ==
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+
